@@ -56,6 +56,14 @@ La URL objetivo está en [scraper_simple.py](scraper_simple.py). Si necesitas ca
 - El script hace esperas con `time.sleep` para dar tiempo a que cargue la página.
 - Si el botón de cookies no aparece, el script continúa.
 
+## Cómo funciona
+
+![Ejecutando el scraper](img/image-1770242157904.png)
+
+## Ejemplo de resultado
+
+![Salida CSV](img/image-1770242170353.png)
+
 ## Licencia
 
 MIT
